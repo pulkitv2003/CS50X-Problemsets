@@ -1,0 +1,12 @@
+.body
+{
+    background-color: black;
+}
+h1
+{
+    background-color: pink;
+}
+table, th, td
+{
+    border: 1px solid;
+}
